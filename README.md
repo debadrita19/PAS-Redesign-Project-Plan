@@ -64,7 +64,7 @@ This repository contains the complete project management documentation and sched
 |-----------|-------------|
 | `Project Report.pdf` | Full project documentation |
 | `PAS_Redesign_Project.pod` | ProjectLibre file with complete schedule |
-
+| `Work Breakdown Structure.pdf` | Work Breakdown Structure |
 ---
 
 ## 🙌 Author
